@@ -4,7 +4,7 @@ You will find in this repository all my work for the Pool of September 2020.
 
 All the exercises have been validated by La Moulinette.
 
-Use this code advisedly. Copying and pasting this code won't bring you anything, except the risk of being postponed and having a -42 flag.
+Use this code wisely. Copying and pasting this code won't bring you anything, except the risk of being postponed and having a -42 flag.
 
 Good luck to you ;)
 
@@ -141,20 +141,20 @@ ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: OK | ex05: OK | ex06: OK | ex0
 
 
 ## BSQ ##
-INCOMING - Thank you to Tom Vacherat who mades 95% of the work, maybe more.
+INCOMING... - Thank you to Tom Vacherat who mades 95% of the work, maybe more.
 
 
 ## Exam00 ##
-100% - atoi was my last exercice
+100% - atoi was my last exercice.
 
 
 ## Exam01 ##
-100% - split was my last exercice
+100% - split was my last exercice.
 
 
 ## Exam02 ##
-100% - split was my last exercice, but it could have been linked list exercices
+100% - split was my last exercice, but it could have been linked list exercices.
 
 
 ## FinalExam ##
-INCOMING
+INCOMING...
