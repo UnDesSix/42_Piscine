@@ -1,0 +1,6 @@
+Credentials cache: API:2DF5EE3C-262B-42AA-8883-55B5AF274987
+        Principal: mlarboul@42.FR
+
+  Issued                Expires               Principal
+Sep  7 09:47:28 2020  Sep 14 09:47:28 2020  krbtgt/42.FR@42.FR
+Sep  7 09:47:29 2020  Sep 14 09:47:28 2020  HTTP/student-storage-2.42.fr@42.FR
