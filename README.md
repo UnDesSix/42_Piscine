@@ -141,7 +141,7 @@ ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: OK | ex05: OK | ex06: OK | ex0
 
 
 ## BSQ ##
-INCOMING... - Thank you to Tom Vacherat who mades 95% of the work, maybe more.
+100% - Thank you to Tom Vacherat who mades 95% of the work, maybe more.
 
 
 ## Exam00 ##
