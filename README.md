@@ -1,12 +1,12 @@
 ## PISCINE 42 - September 2020 ###
 
-You will find in this repository all my work for the Pool of September 2020.
+You will find in this repository all my work for the Piscine of September 2020.
 
-All the exercises have been validated by La Moulinette.
+All the exercises have been validated by the Moulinette.
 
-Use this code wisely. Copying and pasting this code won't bring you anything, except the risk of being postponed and having a -42 flag.
+Use this code wisely. Copying and pasting this code won't bring you anything, except the risk of being reported and having a -42 flag.
 
-Good luck to you ;)
+Good luck to you guys ;)
 
 
 ## Shell00 ##
@@ -132,16 +132,16 @@ ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: OK | ex05: OK | ex06: OK | ex0
 120% - Tutor's comment : "Le rush est top, tous les membres du rush on bien compris, bravo :)"
 
 
-## Rush02 ##
+## Rush01 ##
 115% - Tutor's comment : "bon rush projet compris resolution recursive via carre latin ras bon courage pour cette fin de piscine"
 
 
-## Rush01 ##
+## Rush02 ##
 0% (Segfault) - Tutor's comment : "tres bon rush02, tres bien realise et dommage pour le segfault a 42, bonne chance pour la suite"
 
 
 ## BSQ ##
-INCOMING... - Thank you to Tom Vacherat who mades 95% of the work, maybe more.
+100% - Thank you to Tom Vacherat who mades 95% of the work, maybe more.
 
 
 ## Exam00 ##
@@ -157,4 +157,4 @@ INCOMING... - Thank you to Tom Vacherat who mades 95% of the work, maybe more.
 
 
 ## FinalExam ##
-INCOMING...
+90%
