@@ -2,7 +2,7 @@
 
 You will find in this repository all my work for the Piscine of September 2020.
 
-All the exercises have been validated by the Moulinette.
+All the exercises have been validated by the Moulinette. But it does not mean that it's the best answer.
 
 Use this code wisely. Copying and pasting this code won't bring you anything, except the risk of being reported and having a -42 flag.
 
