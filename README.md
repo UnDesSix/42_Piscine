@@ -1,4 +1,4 @@
-## PISCINE 42 - September 2020 ###
+# PISCINE 42 - September 2020 ###
 
 You will find in this repository all my work for the Piscine of September 2020.
 
